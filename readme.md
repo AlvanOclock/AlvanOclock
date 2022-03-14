@@ -9,6 +9,8 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 
+
+
 Hello :wave: I am a full stack developper and currently tutor at [O'clock](https://oclock.io/) 🚀
 
 This is a sample page. 
